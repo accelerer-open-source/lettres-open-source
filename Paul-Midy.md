@@ -1,9 +1,14 @@
 # Lettre Open Source au Député Paul Midy
 
 M. Paul Midy
+
 Député Renaissance - Essonne (5e circonscription) 
+
 paul.midy@assemblee-nationale.fr
+
 https://www.assemblee-nationale.fr/dyn/deputes/PA795664
+
+Modèle de lettre à copier, adapter selon vos expériences personnelles, et envoyer à votre député.
 
 
 **Objet : accélérons l'open source grâce au financement public**
