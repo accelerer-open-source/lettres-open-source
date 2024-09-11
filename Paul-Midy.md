@@ -47,3 +47,5 @@ Cet état de fait pourrait être corrigé par de simples adaptations des disposi
 Je vous remercie de votre attachement au soutien de l'innovation en France, et me tiens à votre disposition pour discuter de cette proposition.
 
 Je vous prie de croire, Monsieur le Député, en l’expression de ma haute considération.
+
+PS: cette lettre est elle-même open source, vous pouvez la retrouver sur le projet ["Accelerer l'open source" sur la plateforme GitHub](https://github.com/accelerer-open-source/lettres-open-source/blob/main/Paul-Midy.md).
